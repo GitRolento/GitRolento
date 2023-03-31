@@ -1,4 +1,4 @@
-# finalcap
+# readme
 ![alt text](https://i.ytimg.com/vi/-MDC3sUkwX0/maxresdefault.jpg "Welcome")
 Welcome to My Git Repository
 This repository is a collection of my projects and works in progress in various domains of technology. The primary focus areas include:
